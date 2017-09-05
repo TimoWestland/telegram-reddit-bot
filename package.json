@@ -1,0 +1,23 @@
+{
+  "name": "telegram-reddit-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimoWestland/telegram-reddit-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimoWestland/telegram-reddit-bot/issues"
+  },
+  "homepage": "https://github.com/TimoWestland/telegram-reddit-bot#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "telegraf": "^3.10.1"
+  }
+}
